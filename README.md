@@ -1,12 +1,15 @@
 ```markdown
 <!-- =========================================================
      PREMIUM GITHUB PROFILE README
-     Abhishek Gogada
+     ABHISHEK GOGADA
 ========================================================= -->
 
 <div align="center">
 
-<!-- Responsive Light/Dark Banner -->
+<!-- =========================================================
+                         HERO BANNER
+========================================================= -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./Assets/banner-light.png">
@@ -15,32 +18,46 @@
 
 <br><br>
 
-# Hey there, I'm Abhishek Gogada 👋
+<h1>Hey there, I'm Abhishek Gogada 👋</h1>
 
 <a href="https://github.com/abhi15102004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Software+%7C+Data+%7C+AI+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Tech+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+%7C+Data+%7C+AI+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Tech+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG">
+
 </a>
-
-<br>
-
-<a href="https://github.com/abhi15102004">
-  <img src="https://img.shields.io/github/followers/abhi15102004?label=Followers&style=for-the-badge&color=2196F3&labelColor=0D1117" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/abhi15102004?tab=repositories">
-  <img src="https://img.shields.io/github/stars/abhi15102004?label=Stars&style=for-the-badge&color=2196F3&labelColor=0D1117" alt="GitHub Stars">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=abhi15102004&label=Profile+Views&color=2196F3&style=for-the-badge" alt="Profile Views">
 
 <br><br>
 
+<!-- Profile Badges -->
+
 <a href="https://github.com/abhi15102004">
-  <img src="https://img.shields.io/badge/GitHub-abhi15102004-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+<img src="https://img.shields.io/github/followers/abhi15102004?label=Followers&style=for-the-badge&color=1565C0&labelColor=0B1F33" alt="GitHub Followers">
+
+</a>
+
+<a href="https://github.com/abhi15102004?tab=repositories">
+
+<img src="https://img.shields.io/github/stars/abhi15102004?label=Stars&style=for-the-badge&color=2196F3&labelColor=0B1F33" alt="GitHub Stars">
+
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=abhi15102004&label=Profile+Views&color=1976D2&style=for-the-badge" alt="Profile Views">
+
+<br><br>
+
+<!-- Main Links -->
+
+<a href="https://github.com/abhi15102004">
+
+<img src="https://img.shields.io/badge/GitHub-abhi15102004-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 </a>
 
 <a href="https://abhishekgogada.me">
-  <img src="https://img.shields.io/badge/Portfolio-abhishekgogada.me-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+
+<img src="https://img.shields.io/badge/Portfolio-abhishekgogada.me-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+
 </a>
 
 </div>
@@ -55,45 +72,41 @@
 
 ## 🚀 About Me
 
+</div>
+
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 ### 👨‍💻 Who I Am
 
 I'm **Abhishek Gogada**, a Computer Science & Engineering graduate specializing in **Artificial Intelligence & Data Science** from **Methodist College of Engineering and Technology, Hyderabad**.
 
-I'm passionate about building practical technology solutions across **software development, data analytics, AI/ML, and software testing**.
+I'm passionate about building practical technology solutions across **software development, data analytics, artificial intelligence, machine learning, and software testing**.
 
-- 🎓 **Education:** B.Tech – Computer Science & Engineering (AI & Data Science)
-- 💻 **Focus:** Software Development • Data Analytics • AI/ML • Software Testing
-- 🐍 **Primary Language:** Python
-- 📊 **Data:** SQL • Excel • Power BI • Data Visualization
-- 🤖 **Interests:** Machine Learning • Automation • AI Applications
-- 🧠 **Strengths:** Problem Solving • Debugging • Analytical Thinking
-- 🌱 **Currently Learning:** Data Analytics • Advanced SQL • Software Testing
-- 🎯 **Career Goal:** Build a career in Data, Software & AI
-- 📍 **Based in:** Hyderabad, India
+<br>
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech – Computer Science & Engineering (AI & Data Science) |
+| 💻 **Focus** | Software Development • Data Analytics • AI/ML • Software Testing |
+| 🐍 **Primary Language** | Python |
+| 📊 **Data & Analytics** | SQL • Excel • Power BI • Data Visualization |
+| 🤖 **Interests** | Machine Learning • Automation • AI Applications |
+| 🧠 **Strengths** | Problem Solving • Debugging • Analytical Thinking |
+| 🌱 **Currently Learning** | Data Analytics • Advanced SQL • Software Testing |
+| 🎯 **Career Goal** | Build a career in Data, Software & AI |
+| 📍 **Location** | Hyderabad, India |
+
+<br>
 
 I enjoy transforming ideas into useful applications, exploring data-driven solutions, and continuously improving my technical skills through projects and real-world challenges.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="./Assets/about-me.png" width="280" alt="Abhishek Gogada">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&perline=4" alt="Tech Icons">
-
-</td>
-
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -115,7 +128,7 @@ I enjoy transforming ideas into useful applications, exploring data-driven solut
 
 ### 📊 Data, AI & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,mysql,sqlite&theme=dark" alt="Data and AI Stack">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,sklearn,tensorflow&theme=dark" alt="Data and AI Stack">
 
 <br><br>
 
@@ -134,6 +147,8 @@ I enjoy transforming ideas into useful applications, exploring data-driven solut
 <div align="center">
 
 ## ⚡ What I Work On
+
+<br>
 
 <table>
 
@@ -192,12 +207,14 @@ SDLC
 <br>
 
 <!-- =========================================================
-                         FEATURED PROJECTS
+                       FEATURED PROJECTS
 ========================================================= -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
+
+<br>
 
 </div>
 
@@ -209,9 +226,10 @@ SDLC
 
 ### 🧠 Emotion-Aware Adaptive Learning Platform
 
-An AI-driven adaptive learning platform combining **emotion detection, analytics, and reinforcement learning** to personalize the learning experience.
+An AI-driven adaptive learning platform combining **multimodal emotion detection, analytics, and reinforcement learning** to personalize the learning experience.
 
-**Tech:**  
+**Key Technologies**
+
 `Python` `OpenCV` `DeepFace` `Q-Learning` `Streamlit` `SQLite`
 
 </td>
@@ -220,9 +238,10 @@ An AI-driven adaptive learning platform combining **emotion detection, analytics
 
 ### 💳 Online Payments Fraud Detection
 
-A machine-learning based fraud detection system designed to analyze transaction data, identify fraud patterns, and improve fraud detection accuracy.
+A machine-learning based fraud detection system designed to analyze transaction data, identify fraud patterns, and support accurate classification of suspicious transactions.
 
-**Tech:**  
+**Key Technologies**
+
 `Python` `Machine Learning` `Data Analysis` `Classification`
 
 </td>
@@ -237,7 +256,8 @@ A machine-learning based fraud detection system designed to analyze transaction 
 
 A precision farming solution using predictive analytics for irrigation automation, crop monitoring, resource utilization, and water management.
 
-**Tech:**  
+**Key Technologies**
+
 `Python` `Predictive Analytics` `Data Analysis` `Automation`
 
 </td>
@@ -246,7 +266,7 @@ A precision farming solution using predictive analytics for irrigation automatio
 
 ### 🔭 More Projects
 
-Explore my repositories to discover more experiments, academic projects, development work, and data-driven applications.
+Explore my GitHub repositories to discover additional experiments, academic projects, development work, and data-driven applications.
 
 <br>
 
@@ -254,7 +274,7 @@ Explore my repositories to discover more experiments, academic projects, develop
 
 <a href="https://github.com/abhi15102004?tab=repositories">
 
-<img src="https://img.shields.io/badge/Explore_My_Repositories-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
 
 </a>
 
@@ -278,17 +298,17 @@ Explore my repositories to discover more experiments, academic projects, develop
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=00000000&title_color=2196F3&icon_color=2196F3&text_color=808080&ring_color=2196F3&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=64B5F6&icon_color=2196F3&text_color=E3F2FD&ring_color=2196F3&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=00000000&title_color=2196F3&text_color=808080&langs_count=8" height="180" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=abhi15102004&theme=transparent&hide_border=true&ring=2196F3&fire=1976D2&currStreakLabel=2196F3&sideLabels=2196F3&dates=808080&currStreakNum=2196F3&sideNums=2196F3" width="70%" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=0B1F33&title_color=64B5F6&text_color=E3F2FD&langs_count=8" height="180" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi15102004&bg_color=00000000&color=2196F3&line=1976D2&point=64B5F6&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%" alt="GitHub Activity Graph">
+<img src="https://streak-stats.demolab.com?user=abhi15102004&theme=dark&hide_border=true&background=0B1F33&ring=2196F3&fire=64B5F6&currStreakLabel=64B5F6&sideLabels=90CAF9&dates=90A4AE&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi15102004&bg_color=0B1F33&color=90CAF9&line=2196F3&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%" alt="GitHub Activity Graph">
 
 </div>
 
@@ -302,50 +322,15 @@ Explore my repositories to discover more experiments, academic projects, develop
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/abhi15102004/abhi15102004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi15102004/abhi15102004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi15102004/abhi15102004/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/abhi15102004/abhi15102004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
-
-<!-- =========================================================
-GitHub Action for Contribution Snake
-
-Create:
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-
-==============================================================
--->
 
 <br>
 
@@ -360,11 +345,15 @@ jobs:
 <br>
 
 <a href="https://www.linkedin.com/in/abhishekgogada">
-  <img src="https://img.shields.io/badge/LinkedIn-abhishekgogada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+<img src="https://img.shields.io/badge/LinkedIn-abhishekgogada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
 </a>
 
 <a href="mailto:Gogadaabhishek15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gogadaabhishek15%40gmail.com-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+<img src="https://img.shields.io/badge/Email-Gogadaabhishek15%40gmail.com-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
 </a>
 
 <br><br>
@@ -381,7 +370,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=0D47A1,1976D2,2196F3" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=0B1F33,1565C0,2196F3" width="100%" alt="Footer">
 
 </div>
 ```
