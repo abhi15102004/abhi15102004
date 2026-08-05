@@ -7,9 +7,9 @@
 
 <!-- Responsive Light/Dark Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[DARK_BANNER_URL]">
-  <source media="(prefers-color-scheme: light)" srcset="[LIGHT_BANNER_URL]">
-  <img src="[LIGHT_BANNER_URL]" alt="[Gogada Abhishek] GitHub Banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./Assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Assets/banner-light.png">
+  <img src="./assets/banner-light.png" width="100%" alt="Abhishek Gogada Banner">
 </picture>
 
 <br><br>
@@ -340,7 +340,7 @@ jobs:
   <img src="https://img.shields.io/badge/LinkedIn-[YOUR_LINKEDIN_USERNAME]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:Gogadaabhishek15@gmail.com">
   <img src="https://img.shields.io/badge/Email-[YOUR_EMAIL]-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
