@@ -237,10 +237,12 @@ SDLC
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=64B5F6&icon_color=2196F3&text_color=E3F2FD&ring_color=2196F3&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=0B1F33&title_color=64B5F6&text_color=E3F2FD&langs_count=8" height="180" alt="Top Languages">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=64B5F6&icon_color=2196F3&text_color=E3F2FD&ring_color=2196F3&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=0B1F33&title_color=64B5F6&text_color=E3F2FD&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+</p>
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=abhi15102004&theme=dark&hide_border=true&background=0B1F33&ring=2196F3&fire=64B5F6&currStreakLabel=64B5F6&sideLabels=90CAF9&dates=90A4AE&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak">
 
@@ -249,9 +251,6 @@ SDLC
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi15102004&bg_color=0B1F33&color=90CAF9&line=2196F3&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%" alt="GitHub Activity Graph">
 
 </div>
-
-<br>
-
 <!-- =========================================================
                        CONTRIBUTION SNAKE
 ========================================================= -->
