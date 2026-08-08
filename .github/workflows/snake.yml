@@ -2,9 +2,9 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every hour from 4:00 AM to 12:00 PM UTC, Monday through Friday
-    # (Matches 9:30 AM to 5:30 PM IST, Mon–Fri)
-    - cron: "0 4-12 * * 1-5"
+    # Runs every hour from 2:00 AM to 4:00 PM UTC
+    # (Matches 7:30 AM to 9:30 PM IST every day)
+    - cron: "0 2-16 * * *"
   
   workflow_dispatch: # Allows manual run anytime from GitHub Actions tab
 
