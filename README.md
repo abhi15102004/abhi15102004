@@ -238,8 +238,8 @@ SDLC
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=64B5F6&icon_color=2196F3&text_color=E3F2FD&ring_color=2196F3&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=0B1F33&title_color=64B5F6&text_color=E3F2FD&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=abhi15102004&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=64B5F6&icon_color=2196F3&text_color=E3F2FD&ring_color=2196F3&include_all_commits=true&count_private=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=abhi15102004&layout=compact&hide_border=true&bg_color=0B1F33&title_color=64B5F6&text_color=E3F2FD&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <br>
